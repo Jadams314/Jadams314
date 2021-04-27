@@ -11,7 +11,7 @@ I Have a passion for writing code and making life easier!
 - 📫 How to reach me: at https://www.linkedin.com/in/justinadams314/
 - ⚡ Fun fact: I love to travel and see new places
 
-
+### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadams314)](https://github.com/Jadams314/github-readme-stats)
 
