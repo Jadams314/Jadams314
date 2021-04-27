@@ -11,3 +11,5 @@
 - ⚡ Fun fact: I love to travel and see new places
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadams314)](https://github.com/Jadams314/github-readme-stats)
+
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=Jadams314)
