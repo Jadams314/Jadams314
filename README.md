@@ -10,6 +10,8 @@
 - 📫 How to reach me: I can be reachere at https://www.linkedin.com/in/justinadams314/
 - ⚡ Fun fact: I love to travel and see new places
 
+https://angular.io/assets/images/logos/angular/shield-large.svg
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadams314)](https://github.com/Jadams314/github-readme-stats)
 
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=Jadams314)
