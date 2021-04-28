@@ -23,6 +23,7 @@ https://www.linkedin.com/in/justinadams314/
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadams314&show_icons=true&locale=en&layout=compact" alt="jadams314" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadams314&show_icons=true&locale=en" alt="jadams314" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadams314&" alt="jadams314" /></p>
