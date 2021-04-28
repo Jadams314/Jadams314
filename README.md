@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love to travel and see new places**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Linkedin
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/justinadams314/">
 </p>
 
