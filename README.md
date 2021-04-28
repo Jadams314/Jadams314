@@ -2,8 +2,6 @@
 <h3 align="center">I Have a passion for writing code and making life easier!</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadams314" alt="jadams314" /></a> </p>
-
 - 🔭 I’m currently working on [Project Emmy](http://3.141.229.234:8080/ProjectEmmy/home)
 
 - 🤝 I’m looking for help with **projects that will hone my skills as a Java Developer**
