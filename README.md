@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">I Have a passion for writing code and making life easier!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadams314&label=Profile%20views&color=0e75b6&style=flat" alt="jadams314" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadams314" alt="jadams314" /></a> </p>
 
