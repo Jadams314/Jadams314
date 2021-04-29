@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project Emmy](http://3.141.229.234:8080/ProjectEmmy/home)
 
-- 🤝 I’m looking for help with **projects that will hone my skills as a Java Developer**
+- 🤝 I’m looking to collaborate on **projects that will hone my skills as a Java Developer**
 
 - 💬 Ask me about **Java, Spring, SQL and Angular**
 
