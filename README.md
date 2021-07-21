@@ -2,7 +2,7 @@
 <h3 align="center">I Have a passion for writing code and making life easier!</h3>
 
 
-- 🔭 I’m currently working on [Project Emmy](http://3.141.229.234:8080/ProjectEmmy/home)
+- 🔭 I’m currently working as a Developer for Kingland
 
 - 🤝 I’m looking to collaborate on **projects that will hone my skills as a Java Developer**
 
