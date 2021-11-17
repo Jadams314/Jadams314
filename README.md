@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a developer for Kingland **as a developer for Kingland**
 
-- 🌱 I’m currently learning Unity and C# **Unity and C#**
+- 🌱 I’m currently learning Unity and C#
 
 - 👯 I’m looking to collaborate on **game design**
 
