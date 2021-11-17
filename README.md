@@ -3,6 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadams314&label=Profile%20views&color=0e75b6&style=flat" alt="jadams314" /> </p>
 
+- 🔭 I’m currently working as a developer for Kingland **as a developer for Kingland**
+
+- 🌱 I’m currently learning Unity and C# **Unity and C#**
+
+- 👯 I’m looking to collaborate on **game design**
+
+- 🤝 I’m looking for help with learning how to design games **with learning how to design games**
+
+- 💬 Ask me about **Java**
+
+- 📫 You can reach me at justin.adams314@gmail.com **justin.adams314@gmail.com**
+
+- ⚡ Fun fact I love to travel **I love to travel**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/justinadams314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justinadams314/" height="30" width="40" /></a>
